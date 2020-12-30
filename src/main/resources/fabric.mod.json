@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "moadvancements",
+  "version": "${version}",
+
+  "name": "Mo' Advancements",
+  "description": "Adds several new advancement triggers, and advancements that use them.",
+  "authors": [
+    "Shnupbups"
+  ],
+
+  "license": "LGPLv3",
+  "icon": "assets/moadvancements/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.shnupbups.moadvancements.MoAdvancements"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.6.1",
+    "fabric": "*"
+  }
+}

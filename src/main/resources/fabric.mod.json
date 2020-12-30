@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Mo' Advancements",
-  "description": "Adds several new advancement triggers, and advancements that use them.",
+  "description": "Adds several new advancements and advancement triggers.",
   "authors": [
     "Shnupbups"
   ],

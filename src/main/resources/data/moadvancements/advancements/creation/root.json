@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:scaffolding"
+    },
+    "title": {
+      "translate": "advancements.creation.root.title"
+    },
+    "description": {
+      "translate": "advancements.creation.root.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/block/scaffolding_top.png"
+  },
+  "criteria": {
+    "placed_block": {
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "requirements": [
+    [
+      "placed_block"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "advancements.story.open_inventory.title": "Taking Inventory",
+  "advancements.story.open_inventory.description": "Open your inventory",
+  "advancements.story.mine_wood.title": "Getting Wood",
+  "advancements.story.mine_wood.description": "Punch a tree until a block of wood pops out",
+  "advancements.story.build_workbench.title": "Benchmarking",
+  "advancements.story.build_workbench.description": "Craft a crafting table with four blocks of Wooden Planks",
+  "advancements.story.build_pickaxe.title": "Time to Mine!",
+  "advancements.story.build_pickaxe.description": "Use planks and sticks to make a pickaxe",
+  "advancements.story.build_furnace.title": "Hot Topic",
+  "advancements.story.build_furnace.description": "Construct a furnace out of eight cobblestone blocks",
+  
+  "advancements.adventure.build_sword.title": "Time to Strike!",
+  "advancements.adventure.build_sword.description": "Use planks and sticks to make a sword",
+  
+  "advancements.husbandry.build_hoe.title": "Time to Farm!",
+  "advancements.husbandry.build_hoe.description": "Use planks and sticks to make a hoe",
+  "advancements.husbandry.make_bread.title": "Bake Bread",
+  "advancements.husbandry.make_bread.description": "Turn wheat into bread",
+  "advancements.husbandry.bake_cake.title": "The Lie",
+  "advancements.husbandry.bake_cake.description": "Bake a cake using wheat, sugar, milk, and eggs",
+  "advancements.husbandry.cook_fish.title": "Delicious Fish",
+  "advancements.husbandry.cook_fish.description": "Cook a fish you've caught",
+  "advancements.husbandry.get_leather.title": "Cow Tipper",
+  "advancements.husbandry.get_leather.description": "Harvest some leather",
+  "advancements.husbandry.overpowered.title": "Overpowered",
+  "advancements.husbandry.overpowered.description": "Find and eat an enchanted golden apple",
+  "advancements.husbandry.eat_rabbit.title": "Rabbit Season",
+  "advancements.husbandry.eat_rabbit.description": "Cook and eat rabbit meat",
+  
+  "advancements.creation.root.title": "Creation",
+  "advancements.creation.root.description": "Oh, the things you can build!",
+  "advancements.creation.place_sign.title": "It's a Sign!",
+  "advancements.creation.place_sign.description": "Craft and place a sign",
+  "advancements.creation.place_flower_pot.title": "Pot Planter",
+  "advancements.creation.place_flower_pot.description": "Craft and place a flower Pot"
+}

@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "com.shnupbups.moadvancements.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": ["client.TutorialManagerMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "moadvancements:creation/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_sign"
+    },
+    "title": {
+      "translate": "advancements.creation.place_sign.title"
+    },
+    "description": {
+      "translate": "advancements.creation.place_sign.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "placed_sign": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "tag": "minecraft:signs"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "placed_sign"
+    ]
+  ]
+}

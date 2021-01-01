@@ -10,7 +10,7 @@
   ],
 
   "license": "LGPLv3",
-  "icon": "assets/moadvancements/icon.png",
+  "icon": "icon.png",
 
   "environment": "*",
   "entrypoints": {
